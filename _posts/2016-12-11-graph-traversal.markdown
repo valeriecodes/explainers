@@ -27,7 +27,7 @@ Graph traversal, or graph search, is the process of going through each vertex an
  * Whether a graph is a tree
 
 ## Traversal algorithms
-[Example graph](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/220px-Binary_tree.svg.png)
+![Example graph](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/220px-Binary_tree.svg.png)
 
 ### Depth-first search
 Visits children before siblings. That is, explores the full depth of a path before traversing the breadth.
@@ -55,6 +55,7 @@ In graph above:
 * Next visit 4.
 
 Good for:
+
 * Solving mazes
 * [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 
