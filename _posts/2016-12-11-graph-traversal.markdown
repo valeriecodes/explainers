@@ -31,7 +31,9 @@ Graph traversal, or graph search, is the process of going through each vertex an
 
 ### Depth-first search
 Visits children before siblings. That is, explores the full depth of a path before traversing the breadth.
+
 The algorithm is as follows:
+
 - Choose a root node
 - From that node, go to an unvisited child node
 - When there are no longer any unvisited child nodes, traverse back until you find one
@@ -61,7 +63,9 @@ Good for:
 
 ### Breadth-first search
 Visits siblings before children. That is, explores the full breadth of a graph before going to the next level. Uses a queue.
+
 The algorithm is as follows:
+
 - Choose a root node
 - From that node, enqueue all unvisited children
 - Visit each item in the queue and enqueue their unvisited children
