@@ -88,3 +88,28 @@ Good for:
 
 * Finding shortest paths (by number of edges)
 * Serialization/Deserialization of binary trees
+
+### Dijsktra's algorithm
+What if the "distances" between two adjacent edges are not just 1? What if the graph is weighted and has different distances or costs associated with each edge?
+[Animation](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+
+The algorithm is as follows:
+
+- Choose a root node (the one you want the distances from)
+- Mark the distance from that node as 0, and all the rest as infinity
+- Visit each neighbor node and update the distances with the weight of the edge
+- Continue traversing, at each step, if the distance from that node is less than the previous distance, update it
+
+[Example](http://www.reviewmylife.co.uk/data/2008/0715/dijkstras-graph.gif)
+
+_Examples_
+* Internet routing (What is the most efficient way to send a packet form router A to router B? Edges might represent time or cost.)
+* Airline tickets (What is the cheapest way to get from city A to city B?)
+* Directions (Shortest or fastest distance from point A to point B?)
+
+Problems:
+https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach?h_r=internal-search
+https://www.hackerrank.com/challenges/dijkstrashortreach?h_r=internal-search
+
+More resources:
+http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html
