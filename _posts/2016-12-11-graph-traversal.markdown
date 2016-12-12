@@ -103,13 +103,17 @@ The algorithm is as follows:
 [Example](http://www.reviewmylife.co.uk/data/2008/0715/dijkstras-graph.gif)
 
 _Examples_
+
 * Internet routing (What is the most efficient way to send a packet form router A to router B? Edges might represent time or cost.)
 * Airline tickets (What is the cheapest way to get from city A to city B?)
 * Directions (Shortest or fastest distance from point A to point B?)
 
 Problems:
-https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach?h_r=internal-search
-https://www.hackerrank.com/challenges/dijkstrashortreach?h_r=internal-search
+
+[https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach?h_r=internal-search](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach?h_r=internal-search)
+[https://www.hackerrank.com/challenges/dijkstrashortreach?h_r=internal-search](https://www.hackerrank.com/challenges/dijkstrashortreach?h_r=internal-search)
 
 More resources:
-http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html
+
+[http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html](http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html)
+[Traveling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
