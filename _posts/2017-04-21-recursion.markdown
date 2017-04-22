@@ -43,8 +43,7 @@ def countdown(n):
   # method body goes here
 ```
 
-10 minutes for working.
-Want to use Python? Try http://www.skulpt.org/
+Want to use Python? Try [this](http://www.skulpt.org/).
 
 ### Desired output
 ```
@@ -79,7 +78,7 @@ Go over the solutions together.
 * Make sure that your problem is actually getting smaller each time.
 
 ## Next problem: Factorial
-Remember these? https://en.wikipedia.org/wiki/Factorial
+[Remember these?](https://en.wikipedia.org/wiki/Factorial)
 > 3! = 3 * 2 * 1
 
 > 5! = 5 * 4 * 3 * 2 * 1
@@ -96,8 +95,8 @@ def factorial(n):
   # method body goes here
 ```
 
-Let's spend 10 minutes on this. Let's not worry about negative numbers for now.
-Need that site again? It's http://www.skulpt.org/
+Spend 10 minutes on this. Let's not worry about negative numbers for now.
+[Need that site again?](http://www.skulpt.org/)
 
 ### Desired output
 ```
@@ -175,10 +174,10 @@ Exercise if we have time: rewrite previous functions with iteration.
 
 Resources:
 
-http://introcs.cs.princeton.edu/java/23recursion/
+[Princeton lesson on Recursion](http://introcs.cs.princeton.edu/java/23recursion/)
 
-https://en.wikipedia.org/wiki/Recursion_(computer_science)
+[Wikipedia page on recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 
-https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion
+[Khan Academy lesson on recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)
 
-https://en.wikipedia.org/wiki/Mathematical_induction
+[Wikipedia page on mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
